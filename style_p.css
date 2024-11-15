@@ -1,0 +1,212 @@
+body{
+    background: #1b0b01 ;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(219, 204, 204);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+b{
+    text-decoration: none;
+    color: rgb(219, 204, 204);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+P{
+    font-size: 50px;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+
+z{
+    font-size: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+  .p0 {
+    position: relative; 
+    top: 30px;          
+    left: 400px;          
+    font-size: 10px; 
+  }
+
+  .text{
+    position: absolute;
+    left: 100px;
+
+  }
+
+
+div{
+    background: #430d06;
+    position: absolute;
+    width: 1265px;
+    height: 130px;
+    top: -5px;
+    left: -10px;
+    }
+
+    #div-0{
+        background: #961b0b;
+        position: absolute;
+        width: 200px;
+        height: 100px;
+        left:20px ;
+        top: 10px;
+        }
+
+        #div1-0{
+            background: #430d06;
+            position: absolute;
+            width: 150px;
+            height: 50px;
+            top: 32px;
+            left: 1080px;
+            }
+
+            #div1-2{
+                background: #430d06;
+                position: absolute;
+                width: 150px;
+                height: 50px;
+                top: 32px;
+                left: 880px;
+                }
+
+
+#div0{
+        background: #ff8478;
+        position: relative;
+        width: 1378px;
+        height: 460px;
+        left: -130px;
+        top: 100px;
+        }
+
+        #div0-1{
+            background: #ff8478;
+            position: absolute;
+            width: 280px;
+            height: 350px;
+            left: 1064px;
+            top: 0px;
+            }
+
+#div2{
+background: #5B2C0F;
+position: absolute;
+width: 350px;
+height: 400px;
+left: 160px;
+top: 530px;
+border-radius: 10px;
+
+
+}
+
+            #div2-3{
+                background: #5B2C0F;
+                position: absolute;
+                width: 350px;
+                height: 400px;
+                left: 560px;
+                top: 530px;
+                border-radius: 10px ;
+                }
+
+                #div2-4{
+                    background: #5B2C0F;
+                    position: absolute;
+                    width: 350px;
+                    height: 400px;
+                    left: 960px;
+                    top: 530px;
+                    border-radius: 10px ;
+                    }
+
+                    #div2-1{
+                        background: #5B2C0F;
+                        position: absolute;
+                        width: 350px;
+                        height: 400px;
+                        left: 160px;
+                        top: 980px;
+                        border-radius: 10px ;
+                        }
+
+                        #div2-5{
+                            background: #5B2C0F;
+                            position: absolute;
+                            width: 350px;
+                            height: 400px;
+                            left: 560px;
+                            top: 980px;
+                            border-radius: 10px ;
+                            }
+
+                            #div2-6{
+                                background: #5B2C0F;
+                                position: absolute;
+                                width: 350px;
+                                height: 400px;
+                                left: 960px;
+                                top: 980px;
+                                border-radius: 10px ;
+                                }
+
+            #prueba{
+                background: #5B2C0F;
+                position: absolute;
+                width: 270px;
+                height: 100px;
+                left: 40px;
+                top: 260px;
+            }
+
+
+        #div3{
+            background: rgb(97, 83, 97);
+            position: absolute;
+            width: 1258px;
+            height: 200px;
+            top:1000px;
+            left: 120px;
+            }
+
+            #div3-0{
+                background: rgb(97, 83, 97);
+                position: absolute;
+                width: 65px;
+                height: 20px;
+                top:40px;
+                left: 1130px;
+                }
+                #div3-1{
+                    background: rgb(97, 83, 97);
+                    position: absolute;
+                    width: 65px;
+                    height: 20px;
+                    top:50px;
+                    left: 1130px;
+                    }
+                    #div3-2{
+                        background: rgb(97, 83, 97);
+                        position: absolute;
+                        width: 65px;
+                        height: 20px;
+                        top:100px;
+                        left: 1130px;
+                        }
+
+                        #div3-3{
+                            background: rgb(97, 83, 97);
+                            position: absolute;
+                            width: 65px;
+                            height: 20px;
+                            top:40px;
+                            left: 90px;
+                            }

@@ -1,0 +1,153 @@
+body{
+    background: #1b0b01 ;
+}
+
+b{
+    font-size: 40px;
+    text-decoration: none;
+    color: rgb(70, 65, 65);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+z{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(70, 65, 65);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div{
+    background: #430d06;
+    position: absolute;
+    width: 1265px;
+    height: 130px;
+    top: -5px;
+    left: -10px;
+    }
+
+    #div-0{
+        background: #961b0b;
+        position: absolute;
+        width: 200px;
+        height: 100px;
+        left:20px ;
+        top: 10px;
+        }
+
+    #div1-2{
+        background: #430d06;
+        position: absolute;
+        width: 150px;
+        height: 50px;
+        top: 40px;
+        left: 1080px;
+        }
+
+        a{
+            text-decoration: none;
+            font-size: 20px;
+            color: rgb(219, 204, 204);
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+        }
+#div_1{
+    background: #ff8478;
+    position: relative;
+    width: 1200px;
+    height: 460px;
+    left: 20px;
+    top: 130px;
+    border-radius: 10px;
+}
+#div_10{
+    background: #ff8478;
+    position: relative;
+    width: 400px;
+    height: 400px;
+    left: 760px;
+    top: -430px;
+    border-radius: 10px;
+}
+
+#map {
+    width: 100%;
+    margin: auto; /* Centrar el mapa horizontalmente utilizando "auto" */
+    display: block; /* Asegura que el mapa se muestre como un bloque */
+  }
+
+  #div4{
+    background: #430D06;
+    position: absolute;
+    width: 1200px;
+    height: 200px;
+    top:500px;
+    left: 10px;
+    border-radius: 10px;
+    }
+
+    #div3{
+        background: rgb(97, 83, 97);
+        position: absolute;
+        width: 1276px;
+        height: 200px;
+        top:1010px;
+        left: -20px;
+        }
+
+        #div3-0{
+            background: rgb(97, 83, 97);
+            position: absolute;
+            width: 65px;
+            height: 20px;
+            top:40px;
+            left: 1130px;
+            }
+            #div3-1{
+                background: rgb(97, 83, 97);
+                position: absolute;
+                width: 65px;
+                height: 20px;
+                top:50px;
+                left: 1130px;
+                }
+                #div3-2{
+                    background: rgb(97, 83, 97);
+                    position: absolute;
+                    width: 65px;
+                    height: 20px;
+                    top:100px;
+                    left: 1130px;
+                    }
+
+                    #div3-3{
+                        background: rgb(97, 83, 97);
+                        position: absolute;
+                        width: 65px;
+                        height: 20px;
+                        top:40px;
+                        left: 90px; 
+                    }
+
+                    c{
+                        font-size: 10px;
+                        color: rgb(219, 204, 204);
+                        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+                    }
+                    a{
+                        text-decoration: none;
+                        color: rgb(219, 204, 204);
+                        font-family:Arial, Helvetica, sans-serif;
+                    }
+                    e{
+                        text-decoration: none;
+                        font-size: 20px;
+                        color: rgb(219, 204, 204);
+                        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+                    }
+
+                    h2{
+                        color: rgb(219, 204, 204);
+                    }
+
+
+                    
+                    
